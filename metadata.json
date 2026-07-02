@@ -1,0 +1,6 @@
+{
+  "name": "AI Clone Architect",
+  "description": "Design, build, and deploy your highly accurate digital twin with visual analysis, personality mapping, and voice profiling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
